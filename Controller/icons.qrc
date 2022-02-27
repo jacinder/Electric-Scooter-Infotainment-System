@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/system/state_wait.png</file>
+        <file>images/system/state_critical.png</file>
+        <file>images/system/state_good.png</file>
+        <file>images/system/state_warning.png</file>
+        <file>images/system/state_disable.png</file>
+        <file>images/system/blank.png</file>
+        <file>images/system/battery.png</file>
+        <file>images/system/car_light.png</file>
+        <file>images/system/down.png</file>
+        <file>images/system/left.png</file>
+        <file>images/system/light.png</file>
+        <file>images/system/right.png</file>
+        <file>images/system/start.png</file>
+        <file>images/system/temp.png</file>
+        <file>images/system/up.png</file>
+        <file>images/system/tail.png</file>
+        <file>images/warning.png</file>
+        <file>images/system/fire.png</file>
+        <file>images/system/ice.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/system/img_device.png</file>
+        <file>images/system/scooter2.png</file>
+        <file>images/system/scooter3.png</file>
+        <file>images/system/front.png</file>
+        <file>images/system/front2.png</file>
+        <file>images/system/emergency.png</file>
+    </qresource>
+</RCC>
